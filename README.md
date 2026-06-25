@@ -328,7 +328,8 @@ Within 10 seconds.
 Asim Pun Magar  
 Frontend Developer  
 
-GitHub: https://github.com/asimmagar20  
+GitHub: https://github.com/cyberchimpdev
+
 
 ---
 
